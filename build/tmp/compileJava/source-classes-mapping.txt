@@ -1,0 +1,8 @@
+karling/nicolas/WindowsDoors/WindowsDoorsApplication.java
+ karling.nicolas.WindowsDoors.WindowsDoorsApplication
+karling/nicolas/WindowsDoors/Model/Frames.java
+ karling.nicolas.WindowsDoors.Model.Frames
+karling/nicolas/WindowsDoors/Model/Windows.java
+ karling.nicolas.WindowsDoors.Model.Windows
+karling/nicolas/WindowsDoors/Model/Door.java
+ karling.nicolas.WindowsDoors.Model.Door
